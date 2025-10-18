@@ -9,7 +9,7 @@
 ## ✨ Why Choose This Suite?
 
 - **🚀 Truly One-Click Start**: We include a `一键启动.bat` that handles the environment. No dependency nightmares, no missing nodes.
-- **🎨 Production-Ready Workflows**: Not just examples, but finely-tuned workflows for **Realistic Portraits**, **Anime**, **Psychological Horror**, and **Commercial Renders**.
+- **🎨 Production-Ready Workflows**: Not just examples, but finely-tuned workflows for **Realistic Portraits**, **Anime**, **Commercial Renders**, and **Psychological Horror**.
 - **⚙️ Expert-Level Optimization**: Every sampler setting, node parameter, and prompt engineering trick is pre-configured for maximum quality and stability.
 - **📦 Complete Package**: Includes custom nodes, model file organization, and everything else you need. Just add your own checkpoints.
 - **🔒 100% Local & Private**: Your data never leaves your computer. Generate anything without restrictions.
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- |
 | **Realistic Portrait** | Character design, concept art, photography | ![Realistic Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true) |
 | **Anime Illustration** | Anime art, character sheets, illustrations | ![Anime Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00030_.png?raw=true) |
-| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00049_.png?raw=true) |
 | **Commercial Render** | Product visualization, advertising, mockups | ![Commercial Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00056_.png?raw=true) |
+| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00049_.png?raw=true) |
 
 ## 🤝 Join Our Inner Circle
 
