@@ -1,6 +1,6 @@
 # NexusAI Professional ComfyUI Workflows
 
-![NexusAI Workflow Showcase](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00056_.png?raw=true)
+![NexusAI Workflow Showcase](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true)
 
 > **Skip the setup hell. Start creating professional AI art in minutes, not days.**
 
@@ -37,8 +37,8 @@
 | :--- | :--- | :--- |
 | **Realistic Portrait** | Character design, concept art, photography | ![Realistic Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true) |
 | **Anime Illustration** | Anime art, character sheets, illustrations | ![Anime Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00030_.png?raw=true) |
-| **Commercial Render** | Product visualization, advertising, mockups | ![Commercial Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00056_.png?raw=true) |
-| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00049_.png?raw=true) |
+| **Commercial Render** | Product visualization, advertising, mockups | ![Commercial Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00049_.png?raw=true) |
+| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00056_.png?raw=true) |
 
 ## 🤝 Join Our Inner Circle
 
