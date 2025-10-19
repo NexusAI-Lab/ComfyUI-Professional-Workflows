@@ -1,3 +1,24 @@
+---
+## 🚀 **NexusAI Founder's Program | Limited to 10 Seats**
+
+We are not just selling a tool; we are inviting 10 strategic partners to build the future of professional ComfyUI workflows together.
+
+### **As a Founding Member, You Will Secure:**
+
+- ✅ **Immediate Lifetime Access** to the current **NexusAI Professional v1.0 Suite**.
+- 👑 **Permanent Free Upgrades** to all future commercial versions (including the upcoming $99 Professional and $499+ Enterprise editions).
+- 🎯 **Direct Product Decision-Making Power**. Your feedback will shape the v2.0 development roadmap.
+- ⚡ **Priority Support** in a private channel.
+
+### **How to Claim Your Seat?**
+
+1.  Send **3 USDT (TRC20 Network)** to the address: `[TGWkcuReJwC4bJVt6iqZ4QNQLDH3Cs2XWP]`
+2.  **Private Message Me** on Telegram or via GitHub with your **Transaction ID (TxID)** and your **Email Address**.
+3.  You will be granted lifetime VIP access and added to our core circle.
+
+> **This is a strict, one-time offer for the first 10 individuals.** It is not a purchase, but an investment in a shared future.
+
+---
 # NexusAI Professional ComfyUI Workflows
 
 ![NexusAI Workflow Showcase](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true)
