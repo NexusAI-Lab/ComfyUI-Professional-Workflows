@@ -13,7 +13,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 ### **How to Claim Your Seat?**
 
 1.  Send **3 USDT (TRC20 Network)** to the address: `[TGWkcuReJwC4bJVt6iqZ4QNQLDH3Cs2XWP]`
-2.  **Private Message Me** on Telegram or via GitHub with your **Transaction ID (TxID)** and your **Email Address**.
+2. Private Message Me on Telegram (@NexusBridge_Tech) or via GitHub with your Transaction ID (TxID) and your Email Address. 
 3.  You will be granted lifetime VIP access and added to our core circle.
 
 > **This is a strict, one-time offer for the first 10 individuals.** It is not a purchase, but an investment in a shared future.
