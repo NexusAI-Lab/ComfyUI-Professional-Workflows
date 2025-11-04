@@ -21,7 +21,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 ---
 # NexusAI Professional ComfyUI Workflows
 
-![NexusAI Workflow Showcase](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true)
+![NexusAI Workflow Showcase](https://mega.nz/file/OFl2UbwD#RkI0kMxw0QtBcaoUAVcpStMbqVD-XDOquqmEGNtKXv8)
 
 > **Skip the setup hell. Start creating professional AI art in minutes, not days.**
 
