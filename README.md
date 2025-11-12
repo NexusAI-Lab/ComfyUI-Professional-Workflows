@@ -44,7 +44,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 ### Installation
 1.  **Download** the complete package:
     - **[>> Direct Download Link <<](https://mega.nz/file/GQ9T3SjC#cITxDFFxUgpZp7vWEgUQS2jb1AWSV_janhDNEtNRH-c)**
-    - Size: ~13.5 GB
+    - Size: ~22 GB
 
 2.  **Extract** the `.rar` file to your desired location.
 
