@@ -12,7 +12,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 
 ### **How to Claim Your Seat?**
 
-1.  Send **3 USDT (TRC20 Network)** to the address: `[TGWkcuReJwC4bJVt6iqZ4QNQLDH3Cs2XWP]`
+1.  Send **5 USDT (TRC20 Network)** to the address: `[TGWkcuReJwC4bJVt6iqZ4QNQLDH3Cs2XWP]`
 2. Private Message Me on Telegram (@NexusBridge_Tech) or via GitHub with your Transaction ID (TxID) and your Email Address. 
 3.  You will be granted lifetime VIP access and added to our core circle.
 
@@ -43,7 +43,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 
 ### Installation
 1.  **Download** the complete package:
-    - **[>> Direct Download Link <<](https://mega.nz/file/iUECiCyB#7rXYBei6_e_ro4VAxZHt8YUKVXDaEUA9SnnLsp4ZtN0)**
+    - **[>> Direct Download Link <<](https://mega.nz/file/GQ9T3SjC#cITxDFFxUgpZp7vWEgUQS2jb1AWSV_janhDNEtNRH-c)**
     - Size: ~13.5 GB
 
 2.  **Extract** the `.rar` file to your desired location.
