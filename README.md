@@ -21,7 +21,7 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 ---
 # NexusAI Professional ComfyUI Workflows
 
-![NexusAI Workflow Showcase](https://mega.nz/file/OFl2UbwD#RkI0kMxw0QtBcaoUAVcpStMbqVD-XDOquqmEGNtKXv8)
+![NexusAI Workflow Showcase](https://mega.nz/file/GQ9T3SjC#cITxDFFxUgpZp7vWEgUQS2jb1AWSV_janhDNEtNRH-c)
 
 > **Skip the setup hell. Start creating professional AI art in minutes, not days.**
 
@@ -56,10 +56,14 @@ We are not just selling a tool; we are inviting 10 strategic partners to build t
 
 | Workflow | Best For | Output Example |
 | :--- | :--- | :--- |
-| **Realistic Portrait** | Character design, concept art, photography | ![Realistic Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00028_.png?raw=true) |
-| **Anime Illustration** | Anime art, character sheets, illustrations | ![Anime Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00030_.png?raw=true) |
-| **Commercial Render** | Product visualization, advertising, mockups | ![Commercial Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00049_.png?raw=true) |
-| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](https://github.com/NexusAI-Lab/ComfyUI-Professional-Workflows/blob/main/ComfyUI_00056_.png?raw=true) |
+| **Realistic Portrait** | Character design, concept art, photography | ![Realistic Sample](<img width="832" height="1216" alt="ComfyUI_00105_" src="https://github.com/user-attachments/assets/ed460a80-c4fe-48de-a831-56e0ee087ec0" />
+) |
+| **Anime Illustration** | Anime art, character sheets, illustrations | ![Anime Sample](<img width="768" height="1024" alt="ComfyUI_00098_" src="https://github.com/user-attachments/assets/76f4015f-8163-4e8a-b4d6-6a3b409a84b2" />
+) |
+| **Commercial Render** | Product visualization, advertising, mockups | ![Commercial Sample](<img width="1152" height="720" alt="ComfyUI_00076_" src="https://github.com/user-attachments/assets/f89c05dd-6412-4e67-995d-fd678b61706c" />
+) |
+| **Psychological Horror** | Game concepts, mood pieces, dark art | ![Horror Sample](<img width="784" height="1024" alt="ComfyUI_00100_" src="https://github.com/user-attachments/assets/3ac4967a-948c-4aaf-82d4-191f599cb2f8" />
+) |
 
 ## 🤝 Join Our Inner Circle
 
@@ -79,4 +83,4 @@ This isn't just another free dump. We're building **the ultimate collection of p
 
 **Stop configuring, start creating.**
 
-**→ [Download Now](https://mega.nz/file/OFl2UbwD#RkI0kMxw0QtBcaoUAVcpStMbqVD-XDOquqmEGNtKXv8) ←**
+**→ [Download Now](https://mega.nz/file/GQ9T3SjC#cITxDFFxUgpZp7vWEgUQS2jb1AWSV_janhDNEtNRH-c) ←**
